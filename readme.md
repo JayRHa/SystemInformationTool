@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# System Information Tool
+
+PowerShell-based system information gathering tool for Windows endpoint diagnostics.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Endpoint Management | PowerShell | Public |
+
+**Repository:** `JayRHa/system-information-tool`  
+**Topics:** `powershell`, `windows`, `diagnostics`, `system-info`, `endpoint-management`
+<!-- repo-standard:end -->
+
+---
+
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jannik_reinhard)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannik-r/)  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jannikreinhard.com/)
 
