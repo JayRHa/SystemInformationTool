@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides powerShell-based system information gathering tool for Windows endpoint diagnostics.
+PowerShell-based system information gathering tool for Windows endpoint diagnostics.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
